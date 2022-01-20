@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MCornejoDev
 - 👀 I’m interested in Web Application Development, Hacking and Security.
 - 🌱 I’m currently learning Pentesting with CTF.
-- 💞️ I’m looking for a Job like Web Developer
 - 📫 How to reach me : miguel.cornejo.manzanares@gmail.com
 
 <!---
