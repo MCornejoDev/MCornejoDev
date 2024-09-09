@@ -9,4 +9,8 @@ MCornejoDev/MCornejoDev is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCornejoDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MCornejoDev&show_icons=true&count_private=true&include_all_commits=true)
+
+## 🏆 Lenguajes más utilizados:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCornejoDev&layout=compact)
