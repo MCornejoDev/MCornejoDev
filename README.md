@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MCornejoDev&hide=contribs,prs&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MCornejoDev&show_icons=true&theme=dark)
 
 ## 🏆 Lenguajes más utilizados:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCornejoDev&layout=compact&theme=dark)
