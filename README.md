@@ -2,7 +2,7 @@
 - 👀 I'm interested in Web Application Development, Hacking and Security.
 - 🌱 I'm currently learning Pentesting with CTF in [TryHackMe](https://tryhackme.com/)
 - ⌨️ I like to train programming skills in [CodeWars](https://www.codewars.com/)
-- 📫 How to reach me : miguel.cornejo.manzanares@gmail.com
+- 📫 How to contact me : miguel.cornejo.manzanares@gmail.com
 
 <!---
 MCornejoDev/MCornejoDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
